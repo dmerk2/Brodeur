@@ -1,0 +1,43 @@
+body{
+	background-color: skyblue;
+	color: green;
+}
+
+h1{
+	font-family:fantasy; 
+	font-size:50px;
+	text-align:center;
+	color:red;
+}
+
+h2{
+	font-family:fantasy;
+	text-align:center;
+	color:red;
+}
+
+h3{
+	color: white;
+}
+
+h4{	
+	color:red;
+	text-align:center;				
+}
+
+tbody{
+	text-align:center;
+	border:10px green; 
+	padding:10px
+	margin:30px;
+	color:black;
+}
+ul li{
+	text-align:center;
+	font-family:verdana;
+	color:white;	
+}
+
+ol li{
+	text-align:center;
+}
